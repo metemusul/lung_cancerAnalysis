@@ -3,7 +3,7 @@ Bu depo, akciğer kanseri anketi sonuçlarını içeren bir veri setini içermek
 
 Kaggle Projesi Linki
 
-Kaggle projesine buradan (https://www.kaggle.com/code/azrailanperi/biyomedikal)) erişebilirsiniz.
+Kaggle projesine buradan (https://www.kaggle.com/code/metemusul/biomedical-lungcanceranalysis)) erişebilirsiniz.
 
 Veri Seti Özellikleri
 GENDER: Katılımcının cinsiyeti. (Örnek değerler: Male, Female)
